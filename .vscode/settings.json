@@ -1,0 +1,11 @@
+{
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "testing.gutterEnabled": true,
+    "go.testExplorer.showOutput": true,
+    "testing.openTesting": "openOnTestStart",
+    "testing.automaticallyOpenPeekView": "never"
+}

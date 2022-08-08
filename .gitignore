@@ -1,0 +1,6 @@
+__pycache__
+.pytest_cache
+
+
+# I have an automatic .md to pdf converter and am lazy to disable it
+*.pdf
