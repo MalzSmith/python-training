@@ -10,7 +10,6 @@
 # A vonal alatt ne szerkeszd a kódot
 # Az itt lévő kód teszteli a fenti megoldás helyességét
 
-from pytest import approx
 
 def test():
     try:
